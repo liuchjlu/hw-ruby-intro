@@ -34,8 +34,8 @@ fail, fill in the code and save the code file, then watch the test pass!
 
 # 1. Arrays, Hashes, and Enumerables
 
-Check the [Ruby 2.x documentation](http://ruby-doc.org) on [`Array`](http://ruby-doc.org),
-`Hash` and `Enumerable` as they could help tremendously with these
+Check the [Ruby 2.x documentation](http://ruby-doc.org) on [`Array`](http://ruby-doc.org/core-2.2.0/Array.html),
+[`Hash`](http://ruby-doc.org/core-2.2.0/Hash.html) and [`Enumerable`](http://ruby-doc.org/core-2.2.0/Enumerable.html) as they could help tremendously with these
 exercises. :-) 
 
 0. Define a method `sum(array)` that takes an array of integers as an argument and returns the sum of its elements. For an empty array it should return zero.
@@ -49,7 +49,7 @@ just running `autotest` and leaving it running.
 
 # 2. Strings and Regular Expressions
 
-Check the documentation on String and Regexp as they could help tremendously with these exercises. :-)
+Check the documentation on [String](http://ruby-doc.org/core-2.2.0/String.html) and [Regexp](http://ruby-doc.org/core-2.2.0/Regexp.html) as they could help tremendously with these exercises. :-)
 
 0. Define a method `hello(name)` that takes a string representing a name and returns the string "Hello, " concatenated with the name.
 
