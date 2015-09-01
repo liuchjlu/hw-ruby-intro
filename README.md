@@ -34,7 +34,7 @@ fail, fill in the code and save the code file, then watch the test pass!
 
 # 1. Arrays, Hashes, and Enumerables
 
-Check the [Ruby 2.x documentation](http://ruby-doc.org) on `Array`,
+Check the [Ruby 2.x documentation](http://ruby-doc.org) on [`Array`](http://ruby-doc.org),
 `Hash` and `Enumerable` as they could help tremendously with these
 exercises. :-) 
 
