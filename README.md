@@ -49,7 +49,7 @@ just running `autotest` and leaving it running.
 
 # 2. Strings and Regular Expressions
 
-Check the documentation on [String](http://ruby-doc.org/core-2.2.0/String.html) and [Regexp](http://ruby-doc.org/core-2.2.0/Regexp.html) as they could help tremendously with these exercises. :-)
+Check the documentation on [`String`](http://ruby-doc.org/core-2.2.0/String.html) and [`Regexp`](http://ruby-doc.org/core-2.2.0/Regexp.html) as they could help tremendously with these exercises. :-)
 
 0. Define a method `hello(name)` that takes a string representing a name and returns the string "Hello, " concatenated with the name.
 
@@ -77,4 +77,10 @@ Include a method `price_as_string` that returns the price of
 the book formatted with a leading dollar sign and two decimal places, that is, a price
 of 20 should format as "$20.00" and a price of 33.8 should format as
 "$33.80".
+
+# 4. Hints
+
+0. Please go through the documentation pages of the Ruby classes (e.g  [`Array`](http://ruby-doc.org/core-2.2.0/Array.html), [`String`](http://ruby-doc.org/core-2.2.0/String.html) and [`Regexp`](http://ruby-doc.org/core-2.2.0/Regexp.html)) to see the available methods. Don't reinvent the wheel unless you have to.
+ 
+0. If you are not familar with Regular Expressions, you can checkout this [tutorial](http://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm) and use [rubular](http://rubular.com/) as your playground to try out the examples.
 
